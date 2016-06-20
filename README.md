@@ -15,4 +15,4 @@ Folder Structure:
 - models - contains the 3D models both FreeCAD and STL
  - cameraCase - the models for the actual enclosure
  - externalComponents - models for the lens, difraction grating, and camera sensor
- - opticalMouts - models for testing the lens and grating positioning
+ - opticalMounts - models for testing the lens and grating positioning
